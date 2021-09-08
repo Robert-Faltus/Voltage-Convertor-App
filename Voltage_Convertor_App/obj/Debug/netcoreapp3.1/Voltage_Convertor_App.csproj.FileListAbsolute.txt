@@ -1,0 +1,14 @@
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\bin\Debug\netcoreapp3.1\Voltage_Convertor_App.exe
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\bin\Debug\netcoreapp3.1\Voltage_Convertor_App.deps.json
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\bin\Debug\netcoreapp3.1\Voltage_Convertor_App.runtimeconfig.json
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\bin\Debug\netcoreapp3.1\Voltage_Convertor_App.runtimeconfig.dev.json
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\bin\Debug\netcoreapp3.1\Voltage_Convertor_App.dll
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\bin\Debug\netcoreapp3.1\Voltage_Convertor_App.pdb
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\obj\Debug\netcoreapp3.1\Voltage_Convertor_App.csproj.AssemblyReference.cache
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\obj\Debug\netcoreapp3.1\Voltage_Convertor_App.GeneratedMSBuildEditorConfig.editorconfig
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\obj\Debug\netcoreapp3.1\Voltage_Convertor_App.AssemblyInfoInputs.cache
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\obj\Debug\netcoreapp3.1\Voltage_Convertor_App.AssemblyInfo.cs
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\obj\Debug\netcoreapp3.1\Voltage_Convertor_App.csproj.CoreCompileInputs.cache
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\obj\Debug\netcoreapp3.1\Voltage_Convertor_App.dll
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\obj\Debug\netcoreapp3.1\Voltage_Convertor_App.pdb
+G:\Můj disk\Robert\Voltage_Convertor_App\Voltage_Convertor_App\obj\Debug\netcoreapp3.1\Voltage_Convertor_App.genruntimeconfig.cache
